@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
+I'm Kirtan Patidar and am learrning coding steep by step
 
-<!--
-**kirtanpatidar-dev/kirtanpatidar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currenty Learning
+- C Programming Language
+- Git and Github
+- Linux command prompts
+- Basics of coding
 
-Here are some ideas to get you started:
+# Goals
+- Improve my problem solving skills
+- BUild different projects myself
+- Reaching expert level
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+- C (intermediate)
+- Git (learning)
+- Problem solving (basic)
+- Linux command prompt (basic)
+
+# Projects
+- Student record manager (struct handling, memory management, etc.)
+- Banking sysytem (pointer, array)
+
+ 
