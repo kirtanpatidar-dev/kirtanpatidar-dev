@@ -1,25 +1,25 @@
 # Hi there 👋
-I'm Kirtan Patidar and am learrning coding steep by step
+I'm Kirtan Patidar and am learning coding step by step.
 
-# Currenty Learning
+# :seedling: Currenty Learning
 - C Programming Language
 - Git and Github
 - Linux command prompts
 - Basics of coding
 
-# Goals
+# :dart: Goals
 - Improve my problem solving skills
-- BUild different projects myself
+- Build different projects myself
 - Reaching expert level
 
-# Skills
+# :toolbox: Skills
 - C (intermediate)
 - Git (learning)
 - Problem solving (basic)
 - Linux command prompt (basic)
 
-# Projects
+# :pushpin: Projects
 - Student record manager (struct handling, memory management, etc.)
-- Banking sysytem (pointer, array)
+- Banking system (pointer, array)
 
  
