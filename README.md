@@ -6,6 +6,7 @@ I'm Kirtan Patidar and am learning coding step by step.
 - Git and Github
 - Linux command prompts
 - Basics of coding
+- Solving problems on Leetcode
 
 # :dart: Goals
 - Improve my problem solving skills
@@ -20,6 +21,6 @@ I'm Kirtan Patidar and am learning coding step by step.
 
 # :pushpin: Projects
 - Student record manager (struct handling, memory management, etc.)
-- Banking system (pointer, array)
+- Contact record manager (struct handling, file handling, etc.)
 
  
